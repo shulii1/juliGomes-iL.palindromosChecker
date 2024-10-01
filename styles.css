@@ -1,0 +1,21 @@
+/* primero que nada, perdon por mis estilos tan pobres jajaja*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    margin: 15px;
+}
+
+label{
+    display: flex;
+    justify-content:center;
+    margin-bottom:20px;
+}
+
+strong{
+    margin-left:3px;
+}
